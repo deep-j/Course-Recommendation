@@ -1,2 +1,3 @@
 # Course-Recommendation
- Affinity based Collaborative Logistic Recommendation System
+ Affinity based Logistic Regression and Collaborative Filtering for Course Recommendation
+ 
